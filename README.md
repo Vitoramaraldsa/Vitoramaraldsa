@@ -1,7 +1,7 @@
 # 📝 About Me
 **Vitor Amaral | Mobile and RPA Developer**
 
-📱 I am a mobile developer with 2 years of experience specializing in Flutter. I have advanced expertise in UI/UX design, state management, design patterns, software architecture, and performance optimization. I am passionate about building high-quality mobile applications and ensuring seamless user experiences through robust and efficient solutions.
+📱 I am a mobile developer with 3 years of experience specializing in Flutter. I have advanced expertise in UI/UX design, state management, design patterns, software architecture, and performance optimization. I am passionate about building high-quality mobile applications and ensuring seamless user experiences through robust and efficient solutions.
 
 ## 💼 Experience
 
